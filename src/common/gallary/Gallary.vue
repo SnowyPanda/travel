@@ -44,6 +44,7 @@ export default {
   .container >>> .swiper-container
     overflow: inherit
   .container
+    z-index:10
     display: flex
     flex-direction: column
     justify-content: center

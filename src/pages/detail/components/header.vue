@@ -73,6 +73,7 @@ export default {
         top: 0
         left: 0
         right: 0
+        z-index: 2
         .header-fixed-back
             width: .64rem
             text-align: center
